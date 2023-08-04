@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cnomso
-- 👀 I’m interested in Game and software development
-- 🌱 I’m currently learning Software and Game development
+- 👀 I’m interested in software development
+- 🌱 I’m continuously learning Software and Game development
 - 💞️ I’m looking to collaborate on almost anything 
 - 📫 contact me with an IM here...
 
